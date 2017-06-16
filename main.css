@@ -1,0 +1,88 @@
+<html>
+<style>
+img {
+    display: block;
+    margin: 0 auto;
+}
+body{
+    font-family: sans-serif;
+    background-image: url("thread.jpg");
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+h2{
+    text-align: left;
+    color: white;
+}
+h3{
+    text-align: left;
+    color: white;
+}
+
+#header{
+    border: 5px red solid;
+    padding: 5px;
+    padding-bottom: 15px;
+    margin: auto;
+    color: white;
+    width: 50%;
+    font-size: 20px;
+
+}
+
+#school{
+    text-align: left;
+    border: 5px red solid;
+    color: white;
+    width: 30%
+}
+
+#job{
+    text-align: left;
+    border: 5px red solid;
+    color: white;
+    width: 30%
+
+}
+
+#tables{
+    text-align: left;
+    color: white;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even){background-color: red}
+
+#hobbies{
+    text-align: left;
+    color: white;
+    width: 30%
+}
+
+#quotes{
+    text-align: left;
+    border: 5px red solid;
+    color: white;
+    width: 30%
+
+}
+
+#links{
+    text-align: left;
+    color: white;
+    width: 30%
+    font-size: 18px;
+
+}
+</style>
+</html>
